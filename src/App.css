@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+
+.h-page {
+  min-height: 100vh;
+}
+
+
+.bg-cream{
+  background-color: #A9AF7E !important;
+  border: none !important;
+}
+
+.bg-creamtable{
+  background-color: #A9AF7E !important;
+  border-color: white !important;
+}
+
+.bg-green{
+  background-color: #61764B !important;
+}
+
+.bg-gray{
+  background-color: #FAD6A5 !important;
+  border: none !important;
+}
+
+.bg-blackgreen{
+  background-color: #557153 !important;
+  border: none !important;
+}
+
+.bg-pink{
+  background-color: #B73E3E !important;
+  border: none !important;
+}
+
+.bg-greeny{
+  background-color: #A9AF7E !important;
+  border: none !important;
+}
+
