@@ -36,10 +36,10 @@ const Landing = () => {
           </Col>
           <Col lg={8}>
             <Row className="my-5">
-              <Col className="me-5" lg={3}>
+              <Col className="me-5 mb-5" lg={3}>
                 <img src={gambar1} alt="" style={{width:"200px", borderRadius:"10px"}}/>
               </Col>
-              <Col lg={3} className="me-5">
+              <Col lg={3} className="me-5 mb-5">
                 <img src={gambar2} alt="" style={{width:"200px", borderRadius:"10px"}}/>
               </Col>
               <Col lg={3} className="me-5">
@@ -47,13 +47,13 @@ const Landing = () => {
               </Col>
             </Row>
             <Row>
-              <Col className="me-5" lg={3}>
+              <Col className="me-5 mb-5" lg={3}>
                 <img src={gambar4} alt="" style={{width:"200px", borderRadius:"10px"}}/>
               </Col>
-              <Col lg={3} className="me-5">
+              <Col lg={3} className="me-5 mb-5">
                 <img src={gambar5} alt="" style={{width:"200px", borderRadius:"10px"}}/>
               </Col>
-              <Col lg={3} className="me-5">
+              <Col lg={3} className="me-5 mb-5">
                 <img src={gambar6} alt="" style={{width:"200px",borderRadius:"10px"}}/>
               </Col>
             </Row>
